@@ -111,7 +111,6 @@ list.insertAfter('name', 'is')
 
 list.prepend(42)
 list.append(24)
-list //?
 
 list.remove(42)
 list.remove(24)
